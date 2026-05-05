@@ -1,0 +1,549 @@
+{
+  "addr_43.30423,76.96873": {
+    "address": "улица Черниговская, 22",
+    "street": "улица Черниговская",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "22",
+      "road": "улица Черниговская",
+      "city_district": "Турксибский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050056",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25406,76.86346": {
+    "address": "проспект Райымбека",
+    "street": "проспект Райымбека",
+    "microdistrict": "Не определён",
+    "raw": {
+      "road": "проспект Райымбека",
+      "city_district": "Ауэзовский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "A10E9Y6",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25406,76.95466": {
+    "address": "улица Богенбай батыра, 89",
+    "street": "улица Богенбай батыра",
+    "microdistrict": "Золотой квадрат",
+    "raw": {
+      "house_number": "89",
+      "road": "улица Богенбай батыра",
+      "neighbourhood": "Золотой квадрат",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050002",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25541,76.98034": {
+    "address": "улица Сагадат Нурмагамбетов, 73/1",
+    "street": "улица Сагадат Нурмагамбетов",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "73/1",
+      "road": "улица Сагадат Нурмагамбетов",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050007",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23054,76.95435": {
+    "address": "39",
+    "street": null,
+    "microdistrict": "Самал 2",
+    "raw": {
+      "house_number": "39",
+      "neighbourhood": "Самал 2",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050051",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25479,76.91319": {
+    "address": "улица Жумалиева, 80",
+    "street": "улица Жумалиева",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "80",
+      "road": "улица Жумалиева",
+      "residential": "Кластер 30",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050026",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24150,76.92090": {
+    "address": "проспект Абая",
+    "street": "проспект Абая",
+    "microdistrict": "Не определён",
+    "raw": {
+      "road": "проспект Абая",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "000222",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.20880,76.91172": {
+    "address": "улица Ергожина, 81/3",
+    "street": "улица Ергожина",
+    "microdistrict": "Академгородок",
+    "raw": {
+      "house_number": "81/3",
+      "road": "улица Ергожина",
+      "suburb": "Академгородок",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "500060",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.22385,76.84349": {
+    "address": "Жетысу 2-й микрорайон, 4",
+    "street": "Жетысу 2-й микрорайон",
+    "microdistrict": "Жетысу-2",
+    "raw": {
+      "house_number": "4",
+      "road": "Жетысу 2-й микрорайон",
+      "neighbourhood": "Жетысу",
+      "suburb": "Жетысу-2",
+      "city_district": "Ауэзовский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050063",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.22057,76.79522": {
+    "address": "Шугыла микрорайон, 21",
+    "street": "Шугыла микрорайон",
+    "microdistrict": "Шугыла",
+    "raw": {
+      "house_number": "21",
+      "road": "Шугыла микрорайон",
+      "residential": "ЖК Шугыла City",
+      "suburb": "Шугыла",
+      "city_district": "Наурызбайский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "A10H6G1",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24975,76.88284": {
+    "address": "улица Васнецова, 87",
+    "street": "улица Васнецова",
+    "microdistrict": "Тастак",
+    "raw": {
+      "house_number": "87",
+      "road": "улица Васнецова",
+      "quarter": "Панорама",
+      "suburb": "Тастак",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050005",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25832,76.86628": {
+    "address": "проспект Райымбека, 359",
+    "street": "проспект Райымбека",
+    "microdistrict": "Самгау",
+    "raw": {
+      "house_number": "359",
+      "road": "проспект Райымбека",
+      "suburb": "Самгау",
+      "city_district": "Алатауский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "A10E9Y6",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24199,76.92862": {
+    "address": "Кашгарская улица, 73",
+    "street": "Кашгарская улица",
+    "microdistrict": "Золотой квадрат",
+    "raw": {
+      "house_number": "73",
+      "road": "Кашгарская улица",
+      "neighbourhood": "Золотой квадрат",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050022",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.21616,76.96647": {
+    "address": "улица Чайкиной",
+    "street": "улица Чайкиной",
+    "microdistrict": "Не определён",
+    "raw": {
+      "road": "улица Чайкиной",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050051",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.26052,76.98195": {
+    "address": "Восточная объездная автомобильная дорога",
+    "street": "Восточная объездная автомобильная дорога",
+    "microdistrict": "Не определён",
+    "raw": {
+      "road": "Восточная объездная автомобильная дорога",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050010",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25594,76.96477": {
+    "address": "улица Сапаргали Бегалина, 7",
+    "street": "улица Сапаргали Бегалина",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "7",
+      "road": "улица Сапаргали Бегалина",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050010",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.25278,76.95750": {
+    "address": "улица Зенкова, 54",
+    "street": "улица Зенкова",
+    "microdistrict": "Золотой квадрат",
+    "raw": {
+      "house_number": "54",
+      "road": "улица Зенкова",
+      "neighbourhood": "Золотой квадрат",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050010",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24298,76.89060": {
+    "address": "улица Шевченко, 167",
+    "street": "улица Шевченко",
+    "microdistrict": "Тастак",
+    "raw": {
+      "house_number": "167",
+      "road": "улица Шевченко",
+      "suburb": "Тастак",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050046",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24280,76.94213": {
+    "address": "проспект Абая, 47",
+    "street": "проспект Абая",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "47",
+      "road": "проспект Абая",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050013",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.22933,76.95647": {
+    "address": "23",
+    "street": null,
+    "microdistrict": "Самал 2",
+    "raw": {
+      "house_number": "23",
+      "neighbourhood": "Самал 2",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050051",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23484,76.92135": {
+    "address": "улица Сатпаева, 30а к2",
+    "street": "улица Сатпаева",
+    "microdistrict": "Коктем",
+    "raw": {
+      "house_number": "30а к2",
+      "road": "улица Сатпаева",
+      "suburb": "Коктем",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "000222",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24419,76.95476": {
+    "address": "улица Пушкина",
+    "street": "улица Пушкина",
+    "microdistrict": "Золотой квадрат",
+    "raw": {
+      "office": "Cdek",
+      "road": "улица Пушкина",
+      "neighbourhood": "Золотой квадрат",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050050",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.21902,76.85832": {
+    "address": "41",
+    "street": null,
+    "microdistrict": "Микрорайон №6",
+    "raw": {
+      "house_number": "41",
+      "locality": "6-й микрорайон",
+      "suburb": "Микрорайон №6",
+      "city_district": "Ауэзовский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050063",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23721,76.89376": {
+    "address": "проспект Гагарина, 123",
+    "street": "проспект Гагарина",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "123",
+      "road": "проспект Гагарина",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050057",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23751,76.90829": {
+    "address": "улица Манаса, 33",
+    "street": "улица Манаса",
+    "microdistrict": "Коктем",
+    "raw": {
+      "house_number": "33",
+      "road": "улица Манаса",
+      "suburb": "Коктем",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050008",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24100,76.90257": {
+    "address": "улица Курмангазы, 142",
+    "street": "улица Курмангазы",
+    "microdistrict": "Тастак",
+    "raw": {
+      "house_number": "142",
+      "road": "улица Курмангазы",
+      "suburb": "Тастак",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050057",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23786,76.94110": {
+    "address": "улица Сатпаева, 16",
+    "street": "улица Сатпаева",
+    "microdistrict": "Коктем",
+    "raw": {
+      "house_number": "16",
+      "road": "улица Сатпаева",
+      "quarter": "Керемет",
+      "suburb": "Коктем",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050021",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.23527,76.95191": {
+    "address": "35",
+    "street": null,
+    "microdistrict": "Самал 1",
+    "raw": {
+      "house_number": "35",
+      "neighbourhood": "Самал 1",
+      "city_district": "Медеуский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "005051",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.22830,76.94068": {
+    "address": "улица Каратаева Мухамеджана",
+    "street": "улица Каратаева Мухамеджана",
+    "microdistrict": "Коктем",
+    "raw": {
+      "road": "улица Каратаева Мухамеджана",
+      "suburb": "Коктем",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050059",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24592,76.91512": {
+    "address": "улица Жамбыла, 162",
+    "street": "улица Жамбыла",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "162",
+      "road": "улица Жамбыла",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050008",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24808,76.91184": {
+    "address": "улица Байзакова, 223",
+    "street": "улица Байзакова",
+    "microdistrict": "Не определён",
+    "raw": {
+      "house_number": "223",
+      "road": "улица Байзакова",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050026",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24433,76.93552": {
+    "address": "улица Мауленова, 123",
+    "street": "улица Мауленова",
+    "microdistrict": "Золотой квадрат",
+    "raw": {
+      "amenity": "ForteBank",
+      "house_number": "123",
+      "road": "улица Мауленова",
+      "neighbourhood": "Золотой квадрат",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050013",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24470,76.90181": {
+    "address": "улица Василия Клочкова, 30",
+    "street": "улица Василия Клочкова",
+    "microdistrict": "Тастак",
+    "raw": {
+      "house_number": "30",
+      "road": "улица Василия Клочкова",
+      "suburb": "Тастак",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050009",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.24118,76.92163": {
+    "address": "проспект Абая, 99",
+    "street": "проспект Абая",
+    "microdistrict": "Не определён",
+    "raw": {
+      "amenity": "Аптека Со Склада",
+      "house_number": "99",
+      "road": "проспект Абая",
+      "city_district": "Алмалинский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050022",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  },
+  "addr_43.22812,76.92790": {
+    "address": "1А",
+    "street": null,
+    "microdistrict": "Коктем",
+    "raw": {
+      "house_number": "1А",
+      "locality": "Коктем 1-й микрорайон",
+      "neighbourhood": "Коктем 1",
+      "suburb": "Коктем",
+      "city_district": "Бостандыкский район",
+      "city": "Алматы",
+      "ISO3166-2-lvl4": "KZ-75",
+      "postcode": "050040",
+      "country": "Казахстан",
+      "country_code": "kz"
+    }
+  }
+}

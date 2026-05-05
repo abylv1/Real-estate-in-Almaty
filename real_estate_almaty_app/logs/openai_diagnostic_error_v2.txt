@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\real_estate_almaty_app\diagnose_openai_connection_v2.py", line 72, in <module>
+    response = client.responses.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\openai\resources\responses\responses.py", line 917, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\openai\_base_client.py", line 1314, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\openai\_base_client.py", line 1005, in request
+    request = self._build_request(options, retries_taken=retries_taken)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\openai\_base_client.py", line 511, in _build_request
+    headers = self._build_headers(options, retries_taken=retries_taken)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\openai\_base_client.py", line 444, in _build_headers
+    headers = httpx.Headers(headers_dict)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\httpx\_models.py", line 156, in __init__
+    bytes_value = _normalize_header_value(v, encoding)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aralb\Downloads\real_estate_almaty_app\.venv\Lib\site-packages\httpx\_models.py", line 82, in _normalize_header_value
+    return value.encode(encoding or "ascii")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 7-10: ordinal not in range(128)

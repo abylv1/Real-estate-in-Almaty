@@ -1,0 +1,8 @@
+Sandboxing disabled by user.
+GPUInfo not initialized on GpuInfoUpdate
+Sandboxing disabled by user.
+GPUInfo not initialized on GpuInfoUpdate
+js: Uncaught ReferenceError: setShowHeatmap is not defined
+js: Uncaught ReferenceError: setShowClusters is not defined
+js: Uncaught ReferenceError: setShowSuspicious is not defined
+QDxgiVSyncService not destroyed in time
